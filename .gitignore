@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+data/
+models/
+dev_predictions.jsonl
+score.json
+.DS_Store
+Thumbs.db
+.vscode/
